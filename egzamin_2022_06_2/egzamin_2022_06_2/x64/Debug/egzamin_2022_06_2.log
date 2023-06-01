@@ -1,0 +1,3 @@
+﻿  egzamin_2022_06_2.cpp
+C:\Users\sylwi\source\repos\egzamin_2022_06_2\egzamin_2022_06_2\egzamin_2022_06_2.cpp(22,2): error C2535: „Osoba::Osoba(void)”: Funkcja składowa już zdefiniowana lub zadeklarowana
+C:\Users\sylwi\source\repos\egzamin_2022_06_2\egzamin_2022_06_2\egzamin_2022_06_2.cpp(13,2): message : zobacz deklarację „Osoba::Osoba”
